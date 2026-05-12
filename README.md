@@ -19,7 +19,6 @@ Real-Time Market Movement Prediction System using Sequential Deep Learning model
 
 * Python
 * TensorFlow / Keras
-* Flask
 * Gradio
 * Pandas & NumPy
 * yFinance
@@ -27,7 +26,7 @@ Real-Time Market Movement Prediction System using Sequential Deep Learning model
 
 ## Authors
 
-Khushbakht Adnan
-Urwa Tehseen
-Noor ul Huda
-Zeenat Ijaz
+* Khushbakht Adnan
+* Urwa Tehseen
+* Noor ul Huda
+* Zeenat Ijaz
